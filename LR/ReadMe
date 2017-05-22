@@ -6,12 +6,12 @@ molti realizzati in casa da diverse persone. Col tempo nei floppy
 qualche settore si è rovinato e molti livelli erano duplicati.
 
 Fare ordine usando i floppy è un incubo così ho pensato: prima
-mi faccio le immagini poi butto giù uno script veloce per "firmare"
-i livelli con qualche cosa tipo md5.
+mi faccio le immagini disco poi butto giù uno script veloce per
+"firmare" i livelli con qualche cosa tipo md5.
 
 La cosa è evidentemente scappata di mano ed ho realizzato questo
-programma, così la "firma" md5 lo usata sulle immagini che hanno
-il vantaggio di funzionare benissimo con il grep ad occhio
+programma, così la "firma" md5 lo usata sulle immagini PNG che hanno
+il vantaggio di funzionare benissimo con il grep ad occhio.
 
 Un noto pirata (ora si preferisce chiamarli preservatori) con il
 quale ho avuto a che fare in questi ultimi anni ha realizzato
