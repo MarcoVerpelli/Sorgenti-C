@@ -18,3 +18,5 @@ quale ho avuto a che fare in questi ultimi anni ha realizzato
 un bel wallpaper con i 150 livelli originali lo trovate quì:
 
 http://imgur.com/PJCPbB4
+
+![alt text](http://imgur.com/PJCPbB4)
