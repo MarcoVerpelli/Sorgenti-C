@@ -7,3 +7,5 @@ http://www.microatena.it dove lo trovate come allegato allo scan
 
 Non usa alcun tipo di toolkit X11, mi riferiscono di essere riusciti
 a compilarlo anche con un Mac.
+
+![alt text](https://github.com/MarcoVerpelli/Sorgenti-C/blob/master/snowflake/snowflake.png)
