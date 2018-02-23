@@ -9,3 +9,6 @@ Non usa alcun tipo di toolkit X11, mi riferiscono di essere riusciti
 a compilarlo anche con un Mac.
 
 ![snowflake](https://github.com/MarcoVerpelli/Sorgenti-C/blob/master/snowflake/snowflake.png)
+
+N.B. il wallpaper UnixWare è stato usato per fare un dispetto a Caldera
+in effetti si tratta di CDE in esecuzione su GNU/Linux Debian.
