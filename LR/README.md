@@ -10,7 +10,7 @@ mi faccio le immagini disco poi butto giù uno script veloce per
 "firmare" i livelli con qualche cosa tipo md5.
 
 La cosa è evidentemente scappata di mano ed ho realizzato questo
-programma, così la "firma" md5 lo usata sulle immagini PNG che hanno
+programma, così ho usato la "firma" sulle immagini PNG che hanno
 il vantaggio di funzionare benissimo con il grep ad occhio.
 
 Un noto pirata (ora si preferisce chiamarli preservatori) con il
