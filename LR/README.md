@@ -1,7 +1,7 @@
 Legge le immagini disco di Lode Runner per Apple II ed estrae
 i livelli (150) generando immagini BMP o PNG.
 
-Mi sono ritrovato con una dozzina di floppy con livelli per LR,
+Mi sono ritrovato con una dozzina di floppy contenenti livelli per LR,
 molti realizzati in casa da diverse persone. Col tempo nei floppy
 qualche settore si è rovinato e molti livelli erano duplicati.
 
