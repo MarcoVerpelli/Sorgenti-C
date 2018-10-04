@@ -1,5 +1,5 @@
 Automa cellulare esagonale. Tanto per cambiare l'idea per questo
-viene da "Le Scienze", leggere i commenti per saperne di più
+viene da l'articolo di Stephen Wolfram (Le Scienze, 195 novembre 1984), leggere i commenti per saperne di più
 
 Questo programma ha avuto il piacere di essere ospitato dal sito
 http://www.microatena.it dove lo trovate come allegato allo scan
