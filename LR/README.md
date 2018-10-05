@@ -19,5 +19,9 @@ un bel wallpaper con i 150 livelli originali lo trovate quì:
 
 http://imgur.com/PJCPbB4
 
+e pure quì
+
+![LR](https://github.com/MarcoVerpelli/Sorgenti-C/blob/master/LR/LR.jpg)
+
 Anche di questo programma mi riferiscono di essere riusciti a
 compilarlo con un Mac
