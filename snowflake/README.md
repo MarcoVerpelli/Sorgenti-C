@@ -12,3 +12,7 @@ a compilarlo anche con un Mac.
 
 N.B. la tile UnixWare è stata usata per fare un dispetto a Caldera o SCO come si chiama ora
 in effetti si tratta di CDE in esecuzione su GNU/Linux Debian.
+
+L'immagine originale dal citato articolo
+
+![Originale](https://github.com/MarcoVerpelli/Sorgenti-C/blob/master/snowflake/Originale.png)
